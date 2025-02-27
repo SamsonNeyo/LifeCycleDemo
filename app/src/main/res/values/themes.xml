@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.LifeCycleDem1" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorSecondary">@color/teal_200</item>
+    </style>
+    <style name="Theme.LifeCycleDemo1" parent="Base.Theme.LifeCycleDemo1" />
+</resources>
